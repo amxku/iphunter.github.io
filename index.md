@@ -1,4 +1,4 @@
-## IPHunter 卡泉银元
+## IPHunter
 
 + [卡泉记账](https://kkqa.net/fb/index)
 + [银元价格行情](https://kkqa.net/mp/home)
