@@ -30,7 +30,7 @@
 
 ## 其他
 
-+ [列表卡泉](https://list.kqi.net/)
++ [列表卡泉](https://kqi.net/)
 + [全部链接](https://kkqa.net/docx/2205-links)
 + [卡泉银元](https://kkqa.net/)
 + [卡泉价格](https://kkqa.net/mp/home)
